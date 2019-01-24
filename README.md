@@ -13,5 +13,10 @@ monthly_data_1993_2007.sql | monthly_data_2008_2018.sql:
 1.Curretnly both are set to one region and three NACE groups on the timeline 1993 - 2018.  
 2.For changing the boundaries of the data and NACE groups follow the MetaData for "Register účtovných závierok" scheme.  
 
+ruz_arima_pg:  
+1. Follow the comments
+
+Base results for NACE(55100, 55200, 55300), Kosice region, timeline 1993 - 2018
+
 
 
