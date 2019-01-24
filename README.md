@@ -16,7 +16,7 @@ monthly_data_1993_2007.sql | monthly_data_2008_2018.sql:
 ruz_arima_pg:  
 1. Follow the comments
 
-Base results for NACE(55100, 55200, 55300), Kosice region, timeline 1993 - 2018
+# Base results for NACE(55100, 55200, 55300), Kosice region, timeline 1993 - 2018 
 
 
-
+![alt text](https://github.com/csabasidor/RUZ_ARIMA-/blob/master/example%20results/asp_1.png)
