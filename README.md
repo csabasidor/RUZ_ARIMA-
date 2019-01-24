@@ -10,7 +10,7 @@ Please read the comments in the scripts
 # USAGE:
 monthly_data_1993_2007.sql | monthly_data_2008_2018.sql:
 
-1. Curretnly both are set to one region and three NACE groups on the timeline 1993 - 2018  
+1.Curretnly both are set to one region and three NACE groups on the timeline 1993 - 2018.
 2.For changing the boundaries of the data and NACE groups follow the MetaData for "Register účtovných závierok" scheme.
 
 
