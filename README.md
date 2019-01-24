@@ -19,4 +19,9 @@ ruz_arima_pg:
 # Base results for NACE(55100, 55200, 55300), Kosice region, timeline 1993 - 2018 
 
 
-![alt text](https://github.com/csabasidor/RUZ_ARIMA-/blob/master/example%20results/asp_1.png)
+![alt text](https://github.com/csabasidor/RUZ_ARIMA-/blob/master/example%20results/asp_1.png)  
+![alt text](https://github.com/csabasidor/RUZ_ARIMA-/blob/master/example%20results/asp_2.png)  
+![alt text](https://github.com/csabasidor/RUZ_ARIMA-/blob/master/example%20results/ASP_Summary%20of%20the%20Arima%20model.PNG) 
+![alt text](https://github.com/csabasidor/RUZ_ARIMA-/blob/master/example%20results/asp_3.png)  
+![alt text](https://github.com/csabasidor/RUZ_ARIMA-/blob/master/example%20results/ASP_Distribution%20of%20the%20residual%20errors%20.PNG) ![alt text](https://github.com/csabasidor/RUZ_ARIMA-/blob/master/example%20results/asp_4.png)  
+![alt text](https://github.com/csabasidor/RUZ_ARIMA-/blob/master/example%20results/asp_5.png)  
